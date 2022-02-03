@@ -1,0 +1,20 @@
+Book - Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning (2017, MIT) 
+
+Chapter 1, Chapter 6, Chapter 7 , Chapter 8 , Chapter 9
+
+Contents 
+Objective of the course, logistics, applications of neural networks, historical motivation and background, Perceptron and multilayer perceptrons, characteristics of deep learning
+
+Deep Feedforward Networks
+Deep network for Universal Boolean function representation, classification and Approximation, perceptron Learning, Perceptron with differentiable activation functions, Optimization Refresher
+Gradient based learning, Cost function, output units, hidden units, Computational Graph
+
+Regularization for Deep models
+L2 and L1 Regularization, Constrained Optimization and Under- Constrained, Early Stopping, Parameter Tying and Parameter Sharing, Sparse representations, Dropout
+
+Optimization of Deep models
+Challenges in Neural Network Optimization, Basic algorithms in optimization, Stochastic Gradient Descent, Momentum, Parameter Initialization Strategies
+Algorithms with Adaptive Learning Rates, AdaGrad, RMSProp, Adam, Approximate Second-Order Methods, Conjugate gradient, Batch normalization
+
+Convolutional Networks
+The Convolution Operation, Pooling, Structured Outputs, Variants of convolution

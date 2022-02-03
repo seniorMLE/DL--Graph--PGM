@@ -1,0 +1,35 @@
+Read the following chapters , I have exam on 23 Jan 2021
+
+Agarwal Charu C. and Wang Haixun, “Managing and Mining Graph Data”
+[Read Chapter 1-5 and Chapter 8]
+
+Jure Leskovec, Anand Rajaraman, Jeff Ullman. “Mining of Massive Datasets”. Book 2nd
+edition. Cambridge University Press.
+Read Chapter 5
+
+
+Contents
+
+Introduction
+What are Graphs?
+Preliminaries
+Graph Applications
+
+Static Graphs
+Degree distribution, Power Laws, 
+Diameter
+Reachability & Connectivity
+Connected components
+Eigen-spokes
+
+Dynamic graphs
+Patterns in dynamic graph, 
+Densification, Shrinking Diameters, 
+Diameter plot & gelling point. 
+
+PageRank
+Personalized Random Walk
+Parallel Computation
+Topic Sensitive Page Rank
+
+Keyword search on graph data

@@ -1,0 +1,35 @@
+T1 – Chapter [1-3]
+
+Introduction
+Objective of the course, Structured Probabilistic Models, 
+Representation, Inference, Learning, Application of Probabilistic 
+Graphical Models.
+
+Mathematical Preliminaries 
+Probability theory,  Probability Distributions, Random Variables 
+and Joint Distributions, Independence and Conditional 
+Independence, Expectation and Variance
+Graphs, Nodes and Edges, Subgraphs, Paths and Trails, Cycles and
+Loops
+
+Directed Graphical Models
+Independence and independent parameters, Bayesian models, 
+Representation, Factorization of a distribution over a network, 
+Bayesian model representation
+
+D-separation, IMAP, IMAP to factorization, CPD representations, 
+Implementing Bayesian networks using pgmpy
+
+Undirected Graphical Models
+Markov network, Parameterizing a Markov network – factor, 
+Factor operations, Gibbs distributions and Markov networks, 
+Factor graph
+Independencies in Markov networks, Constructing graphs from 
+distributions
+Bayesian and Markov networks
+
+Exact Inference 
+Variable elimination, Belief propagation, Constructing a clique 
+tree, MAP using variable elimination, Factor maximization, MAP 
+using belief propagation, Finding the most probable assignment, 
+Predictions from the model using pgmpy
